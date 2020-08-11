@@ -1,4 +1,5 @@
 # tecnomultimedia
+Fantastic MrFox
 La historia esta hecha de forma lineal con 3 caminos alternativo.
 En si existe 1 final Definitivo en el cual se reiniciaria toda la historia una vez finalizado 
 y 2 alternativos en las cuales se podra repetir la accion principal de la historia, ya que si bien se juega con los finales alternativos estos dan a entender 

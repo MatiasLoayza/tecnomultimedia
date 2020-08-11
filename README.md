@@ -1,4 +1,4 @@
-# tecnomultimedia TP3:Fantastic Mr Fox
+# tecnomultimedia TP3: Fantastic Mr Fox
 
 La historia esta hecha de forma lineal con 3 caminos alternativo.
 En si existe 1 final Definitivo en el cual se reiniciaria toda la historia una vez finalizado 
